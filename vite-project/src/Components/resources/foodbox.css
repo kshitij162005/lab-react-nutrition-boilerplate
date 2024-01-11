@@ -1,0 +1,36 @@
+.box{
+    min-width: 500px;
+    width: fit-content;
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+}
+.media{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 2px solid black;
+    padding: 10px;
+
+}
+.field{
+    display: inline-flex;
+}
+
+.input{
+    justify-content: center;
+    margin-left: 60px
+}
+
+strong{
+    font-size: 30px;
+}
+
+small{
+    font-size: 20px;
+    margin-left: 14px;
+}
+
+
